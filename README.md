@@ -36,8 +36,3 @@ The agent uses an advanced feedback loop to enhance response quality through mul
 - **LangGraph** for flow orchestration.
 - **LangSmith** for tracing and debugging.
 - **Function Calling** for structured tool execution.
-
-## Setup
-
-The code is available on the GitHub repository under the `reflection-agent` branch.  
-Each commit corresponds to a tutorial step for easy reference.
